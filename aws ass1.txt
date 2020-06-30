@@ -1,0 +1,96 @@
+
+
+Assignment no 1:
+
+Que 1:What is Cloud?
+
+Ans:-Cloud  it is  basically,as a rent computing resources or as service provider.
+     The cloud refers to server that are accessed over the internet,and the software and data base that run on those servers.
+     By using cloud computing,users and companies don't have to manage physical servers themselves or run software application on therir own machine.
+     As a rent it provides 1.computing resources
+                           2.software/application
+                           3.pay as you go
+    There are three types of cloud,those are follow:
+             1.private cloud:-Specific to organization/company
+             2.public cloud:-Enable to everyone
+                            1.AWS
+                            2.GCP
+                            3.AZURE
+             3.hybrid cloud:-private + public
+ 
+     
+Que 2:Advantages of cloud computing?
+
+Ans:-1.COMPUTER NETWORK
+     2.SERVICES
+     3.APPLICATION
+     4.STORAGE(DATA BASE)
+     5.SERVER
+
+
+Que 3:Disadvantages of cloud computing?
+
+Ans:-Disadvantages of cloud computing explained.
+     1)Downtime. Downtime is often cited as one of the biggest disadvantages of cloud computing. Since cloud computing systems are internet-based ...
+     2)Security and privacy.
+     3)Vulnerability to attack.
+
+Que 4:Types of cloud computing?
+
+Ans:-There are three types of cloud,those are follow:
+
+             1.private cloud:-Specific to organization/company
+                             A private cloud is a cloud computing system in which IT services are supplied for the specialized use of one organization over private 
+                            IT facilities. A single organization operates the cloud infrastructure only. It can be run on-site or off-site by the organization or 
+                            a third party. Private cloud terms are often employed interchangeably with the virtual private cloud (VPC). 
+                            Technically speaking, a VPC is a private cloud that uses the infrastructure of a third-party cloud provider, while an inner cloud is enforced.
+
+
+             2.public cloud:-Enable to everyone
+                            1.AWS
+                            2.GCP
+                            3.AZURE
+                             The public cloud is described as computing services provided through the public internet by third-party suppliers, making them
+                            accessible to those who want to use them or buy them. It can be free or on-demand for customers to pay for the cycles, storage or
+                            bandwidth they consume per usage.
+
+                           Example: Sun Cloud, AWS, Microsoft Azure.
+             3.hybrid cloud:-private + public
+                     A hybrid cloud is a computer environment that incorporates a government and private cloud to share information and apps. Organizations achieve
+                  flexibility and the computer capacity of a government cloud for fundamental and insensitive computing functions, whilst safe behind a corporate 
+                  firewall for business-critical apps and information.
+                       1. LAAS
+                       2.PAAS
+                       3.SAAS
+                       4.Faas
+
+Que 5:-What is servicevces provided by Cloud computing?
+
+Ans:-1.Amazon Web Services.
+     2.Kamatera.
+     3.Cloudways.
+     4.DigitalOcean.
+     5.Rackspace.
+     6.MassiveGrid.
+     7.Alibaba Cloud.
+     8.LiquidWeb.
+     9.Microsoft Azure.
+     10.Google Cloud Platform.
+
+Que 6:-What is EC2?
+
+Ans:-ELASTIC COMPUTE CLOUD
+    1.It is a service and it belongs to the compute domain of AWS.
+    2.Provide secure and resizable compute capacity in cloud(developers ease).
+    3.As per requrement we resize it.
+    
+Feature:-
+    1.Scaling:-Instances scaled up to down.
+    2.Integrated with other services(S3,RDS)
+    3.Pay for what you ease.
+    4.Instances can be launched in one or more.(Regions or availability zones)
+    5.Support for different Operating System.
+    6.Works with Amazon Virtual Private Cloud(vpc) to provide secure network to resources. 
+
+
+ 
